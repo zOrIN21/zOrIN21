@@ -4,8 +4,8 @@ Junior Frontend-разработчик: React, TypeScript, JavaScript. Моск�
 Прошёл курс Meta Front-End Developer на Coursera, учусь в МАИ.
 
 ## Проекты
-- [Каталог фильмов](https://github.com/zOrIN21/movie-catalog-ts): TypeScript, Vite, OMDb API · [демо](https://zorin21.github.io/movie-catalog-ts/)
-- https://github.com/zOrIN21/movie-catalog-react
+- [Каталог фильмов на React](https://github.com/zOrIN21/movie-catalog-react): React, TypeScript, Vite, OMDb API · поиск с фильтрами, состояния загрузки и ошибок
+- [Каталог фильмов на TypeScript](https://github.com/zOrIN21/movie-catalog-ts): та же задача без фреймворков · [демо](https://zorin21.github.io/movie-catalog-ts/)
 
 ## Стек
 HTML, CSS, JavaScript, TypeScript, React, React Router, Git, Vite
