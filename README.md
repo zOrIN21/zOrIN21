@@ -5,7 +5,7 @@ Junior Frontend-разработчик: React, TypeScript, JavaScript. Моск�
 
 ## Проекты
 - [Каталог фильмов](https://github.com/zOrIN21/movie-catalog-ts): TypeScript, Vite, OMDb API · [демо](https://zorin21.github.io/movie-catalog-ts/)
-- Каталог фильмов на React (в работе)
+- https://github.com/zOrIN21/movie-catalog-react
 
 ## Стек
 HTML, CSS, JavaScript, TypeScript, React, React Router, Git, Vite
