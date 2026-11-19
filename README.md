@@ -5,7 +5,7 @@ Junior Frontend-разработчик: React, TypeScript, JavaScript. Моск�
 
 ## Проекты
 - [Каталог фильмов на React](https://github.com/zOrIN21/movie-catalog-react): React, TypeScript, Vite, OMDb API · поиск с фильтрами, состояния загрузки и ошибок
-- [Каталог фильмов на TypeScript](https://github.com/zOrIN21/movie-catalog-ts): та же задача без фреймворков · [демо](https://zorin21.github.io/movie-catalog-ts/)
+- [Каталог фильмов на TypeScript](https://github.com/zOrIN21/movie-catalog-ts): та же задача без фреймворков · [демо](https://zorin21.github.io/movie-catalog-react/)
 
 ## Стек
 HTML, CSS, JavaScript, TypeScript, React, React Router, Git, Vite
